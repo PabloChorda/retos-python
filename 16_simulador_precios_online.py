@@ -1,5 +1,5 @@
 '''
-Simulador de Precios Dinámicos para un Mercado Online
+Simulador de Precios Dinámicos para un Mercado de venta Online
 Descripción:
 Crea un programa que simule un mercado online donde los precios de los productos cambian dinámicamente según la demanda y la cantidad de stock disponible. El objetivo es manejar la oferta y demanda de productos de forma automática.
 
