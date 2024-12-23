@@ -2,7 +2,7 @@
 EJERCICIO:
 - Crea ejemplos de funciones básicas que representen las diferentes
   posibilidades del lenguaje:
-  Sin parámetros ni retorno, con uno o varios parámetros, con retorno...
+  Sin parámetros ni retorno, con uno o varios parámetros con retorno...
 - Comprueba si puedes crear funciones dentro de funciones.
 - Utiliza algún ejemplo de funciones ya creadas en el lenguaje.
 - Pon a prueba el concepto de variable LOCAL y GLOBAL.
