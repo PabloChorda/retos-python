@@ -6,7 +6,7 @@ EJERCICIO:
 DIFICULTAD EXTRA (opcional):
 Crea una agenda de contactos por terminal.
 - Debes implementar funcionalidades de búsqueda, inserción, actualización
-  y eliminación de contactos.
+  y eliminación de  los contactos.
 - Cada contacto debe tener un nombre y un número de teléfono.
 - El programa solicita en primer lugar cuál es la operación que se quiere realizar,
   y a continuación los datos necesarios para llevarla a cabo.
