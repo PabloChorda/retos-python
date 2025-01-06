@@ -9,7 +9,7 @@ Tasa de natalidad: Número de nacimientos por cada 100 habitantes al año (en po
 Tasa de mortalidad: Número de muertes por cada 100 habitantes al año (en porcentaje).
 Tasa de migración: Cambio neto en la población debido a migración por cada 100 habitantes al año (en porcentaje).
 Duración de la simulación: Cantidad de años a simular.
-El programa debe mostrar la evolución de la población año a año y el total al finalizar el período de simulación. 
+El programa debe mostrar la evolución de la población año tras año y el total al finalizar el período de simulación. 
 Además, incluirá validaciones para que los datos ingresados sean razonables (por ejemplo, no aceptar tasas negativas o duración negativa).
 
 '''
